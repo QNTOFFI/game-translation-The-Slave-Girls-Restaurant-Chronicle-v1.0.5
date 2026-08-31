@@ -5,6 +5,6 @@
 
 скопируйте папку sinarioE
 
-и замените папку /The Slave Girls' Restaurant Chronicle v1.0.5/www/sinarioE
+и замените файлы в  папке /The Slave Girls' Restaurant Chronicle v1.0.5/www/sinarioE
 
 Готово!
